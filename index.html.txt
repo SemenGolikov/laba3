@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="style/tstyle07.css" rel="stylesheet">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<font color="DarkSeaGreen"><h2>Квартальный отчет</h2></font>
+	<br><br>
+	<table width="1000" border="1" cellpadding="5" align="center" cellspacing="0" >
+<caption>Малиновое варенье</caption>
+
+<tr> <td width="300" align="left" valign="middle" height="40"></td> <td>Январь</td> <td>Февраль</td> <td>Март</td> <td>Апрель</td> <td>Май</td> <td>Июнь</td> <td>Июль</td> <td>Август</td> <td>Сентябрь</td> <td>Октябрь</td> <td>Ноябрь</td> <td>Декабрь</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму закупки материалов</td> <td>5737</td> <td>10831</td> <td>13669</td> <td>12926</td> <td>6048</td> <td>7325</td> <td>9463</td> <td>7563</td> <td>7174</td> <td>13207</td> <td>11403</td> <td>14298</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму заработной платы на выпуск</td> <td>13702</td> <td>8973</td> <td>9311</td> <td>10865</td> <td>8189</td> <td>13394</td> <td>8931</td> <td>13389</td> <td>9595</td> <td>11807</td> <td>10338</td> <td>14946</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму продажи</td> <td>9465</td> <td>10767</td> <td>6001</td> <td>11164</td> <td>15944</td> <td>13408</td> <td>14330</td> <td>10312</td> <td>6185</td> <td>11140</td> <td>9358</td> <td>12743</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму прибыли</td> <td>10839</td> <td>11624</td> <td>6753</td> <td>11253</td> <td>10524</td> <td>8329</td> <td>12572</td> <td>10323</td> <td>11327</td> <td>15235</td> <td>13649</td> <td>14635</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Процент наценки</td> <td>7%</td> <td>12%</td> <td>9%</td> <td>5%</td> <td>13%</td> <td>11%</td> <td>9%</td> <td>15%</td> <td>10%</td> <td>7%</td> <td>12%</td> <td>6%</td> </tr>
+</table><br><br><br><br>
+
+
+
+	<table width="1000" border="1" cellpadding="5" align="center" cellspacing="0" >
+<caption>Клубничное варенье</caption>
+
+<tr> <td width="300" align="left" valign="middle" height="40"></td> <td>Январь</td> <td>Февраль</td> <td>Март</td> <td>Апрель</td> <td>Май</td> <td>Июнь</td> <td>Июль</td> <td>Август</td> <td>Сентябрь</td> <td>Октябрь</td> <td>Ноябрь</td> <td>Декабрь</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму закупки материалов</td> <td>9445</td> <td>7843</td> <td>13434</td> <td>9008</td> <td>6610</td> <td>11050</td> <td>6530</td> <td>14256</td> <td>10264</td> <td>13099</td> <td>11911</td> <td>10285</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму заработной платы на выпуск</td> <td>7086</td> <td>10117</td> <td>9998</td> <td>14590</td> <td>11071</td> <td>13361</td> <td>9315</td> <td>7763</td> <td>10439</td> <td>13266</td> <td>10394</td> <td>11071</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму продажи</td> <td>6438</td> <td>6884</td> <td>12500</td> <td>10530</td> <td>10393</td> <td>14678</td> <td>13084</td> <td>9299</td> <td>14068</td> <td>12734</td> <td>7139</td> <td>11378</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму прибыли</td> <td>14715</td> <td>9775</td> <td>14113</td> <td>11467</td> <td>8243</td> <td>12224</td> <td>13794</td> <td>14910</td> <td>11968</td> <td>12765</td> <td>6645</td> <td>14184</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Процент наценки</td> <td>10%</td> <td>6%</td> <td>13%</td> <td>5%</td> <td>16%</td> <td>9%</td> <td>7%</td> <td>11%</td> <td>10%</td> <td>7%</td> <td>12%</td> <td>6%</td> </tr>
+</table><br><br><br><br>
+
+
+
+
+
+	<table width="1000" border="1" cellpadding="5" align="center" cellspacing="0" >
+<caption>Вишневое варенье</caption>
+
+<tr> <td width="300" align="left" valign="middle" height="40"></td> <td>Январь</td> <td>Февраль</td> <td>Март</td> <td>Апрель</td> <td>Май</td> <td>Июнь</td> <td>Июль</td> <td>Август</td> <td>Сентябрь</td> <td>Октябрь</td> <td>Ноябрь</td> <td>Декабрь</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму закупки материалов</td> <td>9737</td> <td>6831</td> <td>11669</td> <td>10726</td> <td>9568</td> <td>7245</td> <td>8543</td> <td>14363</td> <td>6474</td> <td>13217</td> <td>11803</td> <td>13298</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму заработной платы на выпуск</td> <td>10702</td> <td>7973</td> <td>11311</td> <td>7865</td> <td>9189</td> <td>14394</td> <td>11931</td> <td>7889</td> <td>10395</td> <td>11347</td> <td>9338</td> <td>13746</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму продажи</td> <td>10365</td> <td>13767</td> <td>7001</td> <td>12164</td> <td>10944</td> <td>9408</td> <td>6330</td> <td>12332</td> <td>6885</td> <td>11930</td> <td>9328</td> <td>12043</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Сумму прибыли</td> <td>11839</td> <td>9624</td> <td>6673</td> <td>11343</td> <td>10924</td> <td>8459</td> <td>12812</td> <td>9323</td> <td>11037</td> <td>13235</td> <td>11649</td> <td>13435</td> </tr>
+<tr> <td width="300" align="left" valign="middle" height="40">Процент наценки</td> <td>6%</td> <td>10%</td> <td>8%</td> <td>14%</td> <td>11%</td> <td>7%</td> <td>10%</td> <td>13%</td> <td>9%</td> <td>5%</td> <td>13%</td> <td>14%</td> </tr>
+</table>
+
+
+</body>
+</html>
